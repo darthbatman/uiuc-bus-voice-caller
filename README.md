@@ -1,5 +1,4 @@
 # uiuc-bus-voice-caller
-Phone voice application for UIUC Bus using VAIL's FreeClimb API
 
 ## Description
 `UIUC Bus Voice Caller` is a phone voice application for the UIUC bus system (CUMTD) using VAIL's FreeClimb API.
